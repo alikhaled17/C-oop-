@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1604409286 source:e:\download file\iti\oop\day6\geoshape\main.cpp
+	<iostream>
+	"shapes.h"
+
+1604409443 e:\download file\iti\oop\day6\geoshape\shapes.h
+	<iostream>
+
+1604494838 source:e:\download file\iti\oop\day7\geoshape\main.cpp
+	<iostream>
+	"shapes.h"
+
+1604494905 e:\download file\iti\oop\day7\geoshape\shapes.h
+	<iostream>
+
